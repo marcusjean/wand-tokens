@@ -2,22 +2,69 @@
   "typography": [
     {
       "category": "Title",
-      "name": "22_Semibold(600)",
+      "name": "22_Bold(700)",
+      "family": "Pretendard",
+      "style": "Bold",
+      "size": 22,
+      "lineHeight": 130,
+      "description": "대제목 등에 사용"
+    },
+    {
+      "category": "Title",
+      "name": "22_SemiBold(600)",
       "family": "Pretendard",
       "style": "SemiBold",
       "size": 22,
-      "lineHeight": 130,
-      "letterSpacing": 0,
-      "description": "페이지 단위 타이틀에 사용."
+      "lineHeight": 130
     },
     {
-      "category": "Subtitle",
-      "name": "17_Bold(700)",
+      "category": "Title",
+      "name": "18_Bold(700)",
       "family": "Pretendard",
       "style": "Bold",
-      "size": 17,
+      "size": 18,
+      "lineHeight": 130
+    },
+    {
+      "category": "Title",
+      "name": "18_SemiBold(600)",
+      "family": "Pretendard",
+      "style": "SemiBold",
+      "size": 18,
+      "lineHeight": 130
+    },
+    {
+      "category": "Body",
+      "name": "16_SemiBold(600)",
+      "family": "Pretendard",
+      "style": "SemiBold",
+      "size": 16,
       "lineHeight": 140,
-      "letterSpacing": 0
+      "description": "강조형 본문에 사용"
+    },
+    {
+      "category": "Body",
+      "name": "16_Regular(400)",
+      "family": "Pretendard",
+      "style": "Regular",
+      "size": 16,
+      "lineHeight": 140
+    },
+    {
+      "category": "Body",
+      "name": "14_SemiBold(600)",
+      "family": "Pretendard",
+      "style": "SemiBold",
+      "size": 14,
+      "lineHeight": 140
+    },
+    {
+      "category": "Body",
+      "name": "14_Regular(400)",
+      "family": "Pretendard",
+      "style": "Regular",
+      "size": 14,
+      "lineHeight": 140
     }
   ]
 }
